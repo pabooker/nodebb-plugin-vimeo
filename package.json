@@ -1,0 +1,32 @@
+{
+  "name": "nodebb-plugin-vimeo",
+  "version": "0.0.5",
+  "description": "NodeBB Vimeo Plugin",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tedr56/nodebb-plugin-vimeo"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "vimeo",
+    "video",
+    "embed"
+  ],
+  "author": {
+    "name": "psychobunny",
+    "email": "psycho.bunny@hotmail.com"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/vimeo/nodebb-plugin-vimeo/issues"
+  },
+  "readme": "",
+  "readmeFilename": "README.md",
+  "_id": "nodebb-plugin-vimeo@0.0.1",
+  "_from": "nodebb-plugin-vimeo@~0.0.1"
+}

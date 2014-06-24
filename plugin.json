@@ -1,0 +1,13 @@
+{
+	"id": "nodebb-plugin-vimeo",
+	"name": "NodeBB Vimeo Plugin",
+	"description": "NodeBB Plugin that allows users to embed Vimeo videos inline in their posts.",
+	"url": "https://github.com/tedr56/nodebb-plugin-vimeo",
+	"library": "./library.js",
+	"hooks": [
+		{ "hook": "filter:post.parse", "method": "parse", "callbacked": true }
+	],
+	"staticDirs": {
+        "css": "./static"
+    }
+}
