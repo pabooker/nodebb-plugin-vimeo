@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-vimeo",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "NodeBB Vimeo Plugin",
   "main": "library.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/vimeo/nodebb-plugin-vimeo/issues"
+    "url": "https://github.com/tedr56/nodebb-plugin-vimeo/issues"
   },
   "readme": "",
   "readmeFilename": "README.md",
